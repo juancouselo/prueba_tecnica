@@ -1,4 +1,4 @@
-// distributeStock.js
+
 function distributeStock(distributionProposals, stock) {
     const validCycles = new Set([
         'CICLO 2 GRUPO A2',
